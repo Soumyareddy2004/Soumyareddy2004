@@ -98,3 +98,5 @@
 ---
 
 ⭐ **Fun Fact:** I'm always open to new challenges and collaborations in the world of data and tech!  
+
+![DALL·E 2025-01-22 19 19 43 - A futuristic illustration of a young woman with her back visible, sitting at a desk and working on a laptop  The laptop screen glows with visible line](https://github.com/user-attachments/assets/c98e514b-c694-4ce2-b1e3-01b895149a47)
