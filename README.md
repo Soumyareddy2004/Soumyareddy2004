@@ -1,3 +1,4 @@
+![gitpic](https://github.com/user-attachments/assets/0d398661-ce77-42b5-b686-663416b09655)
 # Hi 👋, I'm Sowmya Reddy Bodigam  
 
 ### 🚀 Aspiring Software Developer | Full-Stack Developer | Open Source Contributor | AI & ML Enthusiast  
@@ -7,17 +8,16 @@
 ---
 
 ## **🌟 My Achievements**  
-- **Solutions Challenge 2024**: Successfully developed an impactful solution addressing real-world challenges using Google technologies.  
-- **Sudhee Hackathon Finalist**: Designed and built innovative tech solutions, competing with top developers.  
-- **Open Source Contributor (SWOC - Social Winter of Code)**: Contributed to open-source projects, enhancing my collaborative development skills.  
+- **Solutions Challenge 2025 Hackathon Winner**: Successfully developed an impactful solution addressing real-world challenges using Google technologies.  
+- **Sudhee CBIT 2025 Hackathon Winner**: Designed and built innovative tech solutions, competing with top developers.  
 
 ---
 
 ## **🎡 My Projects**  
-- **Edu Orbit**: A collaborative, gamified learning platform built using the MERN stack.  
-- **Productify**: An innovative e-commerce website featuring **StitchVastra** (an online boutique).  
 - **GeoVision**: An AI-based **satellite image classification** system, leveraging deep learning for geographic insights.  
 - **NoPoverty**: A data-driven platform aimed at reducing poverty through AI-powered insights and solutions.  
+- **Edu Orbit**: A collaborative, gamified learning platform built using the MERN stack.  
+- **Productify**: An innovative e-commerce website featuring **StitchVastra** (an online boutique).  
 - **ATM Interface** & **Digital Library Management**: Java-based software solutions.  
 - **Iris Flower Detection**: Classification using ML techniques.  
 
