@@ -1,4 +1,3 @@
-![gitpic](https://github.com/user-attachments/assets/0d398661-ce77-42b5-b686-663416b09655)
 # Hi 👋, I'm Sowmya Reddy Bodigam  
 
 ### 🚀 Aspiring Software Developer | Full-Stack Developer | Open Source Contributor | AI & ML Enthusiast  
@@ -90,3 +89,4 @@
 ---
 
 🌟 **Fun Fact:** I'm always open to new challenges and collaborations in the world of data and tech!
+![gitpic](https://github.com/user-attachments/assets/0d398661-ce77-42b5-b686-663416b09655)
