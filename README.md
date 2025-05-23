@@ -13,6 +13,8 @@
 ---
 
 ## **🎡 My Projects**  
+- **Agriverse**: An intelligent agriculture support platform.
+- **WellSync**: A smart healthcare management system.
 - **GeoVision**: An AI-based **satellite image classification** system, leveraging deep learning for geographic insights.  
 - **NoPoverty**: A data-driven platform aimed at reducing poverty through AI-powered insights and solutions.  
 - **Edu Orbit**: A collaborative, gamified learning platform built using the MERN stack.  
