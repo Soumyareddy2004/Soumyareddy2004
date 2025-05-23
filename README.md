@@ -52,15 +52,19 @@
 ## **🏆 GitHub Stats & Contributions**  
 
 ### **🔥 My GitHub Statistics**  
-![Soumya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Soumyareddy2004&show_icons=true&theme=radical)  
+![Soumya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Soumyareddy2004&show_icons=true&theme=radical)
 
 ### **🏆 GitHub Trophies**  
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Soumyareddy2004&theme=radical)  
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Soumyareddy2004&theme=radical)
+
 
 ### **📊 My Contribution Graph**  
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Soumyareddy2004&theme=dracula)  
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Soumyareddy2004&theme=dracula)
 
 ---
+
+![GitHub Pull Requests](https://img.shields.io/github/issues-pr/Soumyareddy2004/Soumyareddy2004?style=flat-square)
+![GitHub Issues](https://img.shields.io/github/issues/Soumyareddy2004/Soumyareddy2004?style=flat-square)
 
 ## **🛠️ Languages, Technologies & Tools**  
 
