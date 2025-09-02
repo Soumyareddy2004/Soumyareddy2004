@@ -13,14 +13,29 @@
 ---
 
 ## **🎡 My Projects**  
-- **Agriverse**: An intelligent agriculture support platform.
-- **WellSync**: A smart healthcare management system.
-- **GeoVision**: An AI-based **satellite image classification** system, leveraging deep learning for geographic insights.  
-- **NoPoverty**: A data-driven platform aimed at reducing poverty through AI-powered insights and solutions.  
-- **Edu Orbit**: A collaborative, gamified learning platform built using the MERN stack.  
-- **Productify**: An innovative e-commerce website featuring **StitchVastra** (an online boutique).  
-- **ATM Interface** & **Digital Library Management**: Java-based software solutions.  
-- **Iris Flower Detection**: Classification using ML techniques.  
+
+- **HopeChain (Fund-Together-Wave)**: A decentralized crowdfunding platform built with **Web3, Solidity, Hardhat, and Sepolia testnet**, enabling transparent and secure fundraising campaigns.  
+
+- **Agriverse**: An intelligent agriculture support platform integrating **AI and IoT** to provide insights for smarter farming decisions.  
+
+- **WellSync**: A smart healthcare management system powered by **AI-driven analytics** for efficient patient care and resource optimization.  
+
+- **GeoVision**: An AI-based **satellite image classification** system, leveraging **deep learning** for geographic insights.  
+
+- **NoPoverty**: A data-driven platform aimed at reducing poverty through **AI-powered insights and predictive analytics**.
+  
+- **MiniWallet**: A decentralized wallet application designed for **Ethereum-based transactions** using **Web3.js, MetaMask, and Smart Contracts**, allowing users to send, receive, and track ETH securely.  
+
+- **Voting dApp**: A blockchain-powered decentralized voting system using **Solidity, Hardhat, and Web3.js**, ensuring transparency, immutability, and fairness in elections.  
+
+- **Edu Orbit**: A collaborative, gamified learning platform built using the **MERN stack (MongoDB, Express, React, Node.js)** with features like progress tracking, group rooms, and AI-driven recommendations.  
+
+- **Productify**: An innovative **e-commerce platform** featuring **StitchVastra**, an online boutique, built with **React, Node.js, and MongoDB**.  
+
+- **ATM Interface** & **Digital Library Management**: Java-based software solutions developed using **Java Swing and JDBC** for real-world use cases.  
+
+- **Iris Flower Detection**: A **machine learning classification project** for identifying iris flower species using **Python, Scikit-learn, and data visualization tools**.  
+
 
 ---
 
@@ -95,4 +110,3 @@
 ---
 
 🌟 **Fun Fact:** I'm always open to new challenges and collaborations in the world of data and tech!
-![gitpic](https://github.com/user-attachments/assets/0d398661-ce77-42b5-b686-663416b09655)
