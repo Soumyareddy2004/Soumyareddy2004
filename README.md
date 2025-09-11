@@ -5,9 +5,6 @@
 
 ## 🌟 My Achievements
 
-- **Solutions Challenge 2025 Hackathon Winner**  
-  Developed an impactful AI-driven socio-economic vulnerability mapping platform using census & spatial data.
-
 - **Sudhee CBIT Hackathon Winner (March 2025, Hyderabad, India)**  
   🏆 1st place out of 150+ teams for developing an AI-powered geospatial intelligence platform.
 
@@ -125,5 +122,3 @@
 ![Ethereum](https://img.shields.io/badge/Ethereum-627eea?style=flat&logo=ethereum&logoColor=white)
 
 ---
-
-🌟 **Fun Fact:** I'm always open to new challenges and collaborations in the world of data and tech!
